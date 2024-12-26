@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, meu nome é Marcelo Santana</h1>
-<h3 align="center">Sou Head de Marketing de uma empresa do Setor IMobilíário, e atualmente estou montando um portfólio de saas</h3>
+<h3 align="center">Sou Head de Marketing de uma empresa do Setor Imobilíário, e atualmente estou montando um portfólio de saas</h3>
 
 - 🌱 Atualmente estou estudando **Power BI, phyton,sql e bando de dados**
 
