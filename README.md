@@ -5,9 +5,15 @@
 
 - 💬 Me pergunte sobre **Google Data Stúdio, Google GTM, Google Analytics e Power BI**
 
-- 📫 Voê me acha **marcelojonil09@gmail.com**
+- 📫 Voê me acha **marcelosantana.py@gmail.com**
 
-- 📄 Tenho 38 anos, sou formado em administração e apaixonado por comunicação visual. Por isso me dediquei a estudar e me especializar em design na parte gráfica, fotografia, wordpress e marketing digital. Tenho amplo conhecimento no marketing digital sendo especialista de mídia paga e performance, e como a análise de dados anda ao lado da mídia paga, nos últimos dois anos, me dedico a estudar e aplicar a carreira de data analytics e desenvolvedor power BI Habilidades Facebook Ads, Tiktok Ads, Google Ads, Pinterest ads, Gerenciamento, RD Station, Activecampaign, SEO, Pacote Adobe, Wordpress, Data Studio, GTM, Google Analytics, Google Data Stúdio, Power BI Cursos | Hashtag Treinamento, Empowerdata, Formação Cientista de Dados na Udemy e Pós-Graduação em Data Science na Descomplica digital [https://www.linkedin.com/in/santana-marcelo/](https://www.linkedin.com/in/santana-marcelo/)
+- 📄 Tenho 39 anos, sou formado em Administração e sou apaixonado por comunicação visual e estratégias digitais. Ao longo da minha trajetória, me especializei em áreas como design gráfico, fotografia, WordPress e marketing digital, integrando essas habilidades para criar campanhas e projetos de alto impacto.
+
+Com mais de 10 anos de experiência no marketing digital, sou especialista em mídia paga e performance, com amplo domínio de ferramentas como Facebook Ads, TikTok Ads, Google Ads e Pinterest Ads, além de estratégias de SEO, automação de marketing com RD Station e ActiveCampaign, e gestão de plataformas como Google Analytics, GTM e Google Data Studio.
+
+Reconhecendo o papel fundamental da análise de dados no sucesso das campanhas de mídia paga, nos últimos anos, foquei em expandir minha atuação como Data Analyst, com expertise em Power BI e visualização de dados. Recentemente, concluí uma pós-graduação em Ciência de Dados pela Descomplica, além de formações complementares em análise de dados e visualização em instituições como Hashtag Treinamentos, EmpowerData e Udemy.
+
+Minha abordagem une criatividade, estratégia e dados, buscando sempre entregar resultados consistentes e impactantes para projetos digitais de diferentes segmentos. [https://www.linkedin.com/in/santana-marcelo/](https://www.linkedin.com/in/santana-marcelo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
