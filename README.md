@@ -1,43 +1,68 @@
-<h1 align="center">Oi 👋, meu nome é Marcelo Santana</h1>
-<h3 align="center">Sou Head de Marketing de uma empresa do Setor Imobilíário, e atualmente estou montando um portfólio de saas</h3>
 
-- 🌱 Atualmente estou estudando **Power BI, phyton,sql e bando de dados**
+# Olá, eu sou Marcelo Santana 👋
 
-- 💬 Me pergunte sobre **Google Data Stúdio, Google GTM, Google Analytics e Power BI**
+### Growth & Marketing Leader | Data Science | AI Developer | Startup Advisor
 
-- 📫 Voê me acha **marcelosantana.py@gmail.com**
+Sou profissional de marketing, dados e tecnologia, com mais de 13 anos de experiência em crescimento de negócios, estratégia digital e análise de dados.
 
-- 📄 Tenho 39 anos, sou formado em Administração e sou apaixonado por comunicação visual e estratégias digitais. Ao longo da minha trajetória, me especializei em áreas como design gráfico, fotografia, WordPress e marketing digital, integrando essas habilidades para criar campanhas e projetos de alto impacto.
+Atualmente atuo como **Head de Performance & Growth**, liderando iniciativas de aquisição, CRM, Marketing Analytics e transformação digital.
 
-Com mais de 10 anos de experiência no marketing digital, sou especialista em mídia paga e performance, com amplo domínio de ferramentas como Facebook Ads, TikTok Ads, Google Ads e Pinterest Ads, além de estratégias de SEO, automação de marketing com RD Station e ActiveCampaign, e gestão de plataformas como Google Analytics, GTM e Google Data Studio.
+Também desenvolvo **aplicações SaaS, automações e soluções com Inteligência Artificial**, conectando estratégia, dados e tecnologia para resolver problemas reais de negócios.
 
-Reconhecendo o papel fundamental da análise de dados no sucesso das campanhas de mídia paga, nos últimos anos, foquei em expandir minha atuação como Data Analyst, com expertise em Power BI e visualização de dados. Recentemente, concluí uma pós-graduação em Ciência de Dados pela Descomplica, além de formações complementares em análise de dados e visualização em instituições como Hashtag Treinamentos, EmpowerData e Udemy.
+---
 
-Minha abordagem une criatividade, estratégia e dados, buscando sempre entregar resultados consistentes e impactantes para projetos digitais de diferentes segmentos. [https://www.linkedin.com/in/santana-marcelo/](https://www.linkedin.com/in/santana-marcelo/)
+### 🚀 Sobre mim
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/henrri09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henrri09" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/henrri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/henrri" height="30" width="40" /></a>
-</p>
+- 📊 Especialista em Ciência de Dados, Business Intelligence e Marketing Analytics.
+- 🤖 Desenvolvedor de soluções com IA generativa, vibe coding e ferramentas no-code/low-code.
+- 💼 Atuação em conselhos consultivos, mentoria e projetos estratégicos para startups.
+- 📈 Experiência com Growth, Performance Marketing, CRM e otimização de funis.
+- 🎓 Pós-graduado em Ciência de Dados e bacharel em Administração.
+- 📚 MBA em Inteligência Artificial e pós-graduação em Growth Marketing em andamento.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🛠️ Tecnologias e ferramentas
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrri09&show_icons=true&locale=en&layout=compact" alt="henrri09" /></p>
+**Dados e desenvolvimento**
 
+`Python` `SQL` `Power BI` `Looker Studio` `ETL` `Data Analytics`
 
-<!--
-**Henrri09/henrri09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Inteligência Artificial e aplicações**
 
-Here are some ideas to get you started:
+`Lovable` `ChatGPT` `Claude` `Gemini` `AI Agents` `Vibe Coding` `No-Code` `Low-Code`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Marketing e Growth**
+
+`Google Analytics 4` `Google Tag Manager` `Google Ads` `Meta Ads` `CRM` `SEO` `Marketing Automation`
+
+### 💻 Projetos em destaque
+
+**Data Hire Club**
+
+Plataforma e comunidade para profissionais da área de dados, com mais de 1.000 usuários, oportunidades de carreira, desafios práticos e ferramentas de aprendizagem com inteligência artificial.
+
+**Vostè Academy | Sistema de Gestão Financeira**
+
+Desenvolvimento de solução digital para gestão e acompanhamento financeiro, utilizando inteligência artificial para apoiar a construção de funcionalidades e a digitalização de processos.
+
+**OrdemBase | SaaS de Gestão de Serviços**
+
+Projeto de plataforma para gestão de ordens de serviço, controle operacional, checklists e acompanhamento de equipes e equipamentos.
+
+### 🎯 Áreas de interesse
+
+- Inteligência Artificial aplicada a negócios
+- Desenvolvimento de produtos SaaS
+- Ciência de Dados e Business Intelligence
+- Growth e automação de marketing
+- Estratégia e aconselhamento de startups
+- Transformação digital e inovação
+
+### 📫 Vamos nos conectar?
+
+**LinkedIn:** [Marcelo Santana](https://www.linkedin.com/in/santana-marcelo/)
+
+**E-mail:** [marcelosantana.py@gmail.com](mailto:marcelosantana.py@gmail.com)
+
+---
+
+*Transformando dados, inteligência artificial e estratégia em soluções de negócio.*
